@@ -5,7 +5,7 @@ Esta api rest es el back end para la app móvil que se encuentra en este mismo r
 
 # Instalación
 
-Cree una base de datos nueva llamada tienda_db - utf8_spanish_ci en phpMyAdmin en su servidor local ( XAMPP MAMP ).
+Cree una base de datos nueva llamada: tienda_db cotejamiento:  utf8_spanish_ci en phpMyAdmin en su servidor local ( XAMPP MAMP ).
 
 Simplemente copie el contenido de esta carpeta en dentro de la carpeta (htdocs) de su servidor PHP  (XAMPP, MAP, ETC).
 
